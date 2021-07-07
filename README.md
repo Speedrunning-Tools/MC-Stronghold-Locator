@@ -10,10 +10,10 @@ Afer you have downloaded Python, go to command prompt and type `python`
 
 If you get this result:
 
-`
+```
 C:\Users\Example>python
 Python 3.x.x (bunch of other stuff)
-`
+```
 
 You succesfully downloaded Python!
 
@@ -23,7 +23,7 @@ Now download the Python script [here](https://github.com/Speedrunning-Tools/MC-S
 
 After downloading, you should be able to duble click the script and boom, you are ready to find the Sronghold Entrance!
 
-# Downloading Instructions (Linux and Mac0
+# Downloading Instructions (Linux and Mac)
 Unaffortunatelly, I have not tested (and have no idea) how to download this on this OS. If you would like to contribute, you can make a PR and I can merge it
 
 Also, if you know how to make an executable on Linux or Man, please let me know **@icky#2264**. Thank you!
