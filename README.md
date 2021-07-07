@@ -33,13 +33,14 @@ This script looks for the 4 4 area of the chunk you are standing at. So if you a
 
 # QnA
 
-## Is this allowed?
+**Is this allowed?**
 Yes this is allowed.
 
-## Will this have a toll on my preformance?
+**Will this have a toll on my preformance?**
 No it will not.
 
-## If this locates the 4 4 area of a chunk, cant you do a Script where it find the 9 9 area of a chunk to find Treasure Chests?
+**If this locates the 4 4 area of a chunk, cant you do a Script where it find the 9 9 area of a chunk to find Treasure Chests?**
 I actually have a repo for this! Its located [here]()
 
+# Other
 If you have any questions, please let me know **@icky#2264**. If you would like to see the whole list of Speedrunning tools, you can go [here]() adn find the list of tools there!
