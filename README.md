@@ -1,4 +1,8 @@
 # Minecrat Sronghold Locator
+Unafortunatelly, I got word that this is not allowed, **I DO NOT ENCOURAGE TO USE THIS, IF YOUR RUN GOT REJECTED BECAUSE OF THIS, IT'S NOT MY FAULT, YOU HAVE BEEN WARNED**
+
+**IM LEAVING THE CODE HERE IN CASE IT'S USEFUL TO SOMEONE**
+
 A tool to find the Stronghold entrance in Minecraft. This looks for the 4 4 area of the chunk your in.
 
 And no, you do not need a seed for this, only the coords on where you are standing.
@@ -26,7 +30,7 @@ After downloading, you should be able to duble click the script and boom, you ar
 # Downloading Instructions (Linux and Mac)
 Unaffortunatelly, I have not tested (and have no idea) how to download this on this OS. If you would like to contribute, you can make a PR and I can merge it
 
-Also, if you know how to make an executable on Linux or Man, please let me know **@icky#2264**. Thank you!
+Also, if you know how to make an executable on Linux or Mac, please let me know **@icky#2264**. Thank you!
 
 # The Downside of this Script
 This script looks for the 4 4 area of the chunk you are standing at. So if you are not in the chunk that the Stronghold entrance is located at, this is not going to work. You have to make a guess or assumption that you are in the chunk that the Stronghold entrance is at.
@@ -35,7 +39,7 @@ This script looks for the 4 4 area of the chunk you are standing at. So if you a
 
 **Is this allowed?**:
 
-It is being dicused within the MCBE moderators and ill update this when I get an answer.
+Unafortunatelly, I got word that this is not allowed, **I DO NOT ENCOURAGE TO USE THIS, IF YOUR RUN GOT REJECTED BECAUSE OF THIS, IT'S NOT MY FAULT, YOU HAVE BEEN WARNED**
 
 **Will this have a toll on my preformance?**:
 
